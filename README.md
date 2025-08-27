@@ -1,6 +1,6 @@
 Sure, here is your README.md file:
 
-![IDEAdit](./matrix/cec/image/logon.png)
+![IDEAdit](./matrix/cec/image/logon.jpg)
 ______
 
 
